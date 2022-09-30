@@ -1,0 +1,80 @@
+{
+    "man": [
+        {
+            "prodid": "1",
+            "name": "T-shirt Tommy Man",
+            "price": 179,
+            "src": "/img/AW22-BLM04R_55X_F1.jpg"
+        },
+        {
+            "prodid": "2",
+            "name": "jeans Levi's Man",
+            "price": 169,
+            "src": "/img/07d0c5147b4f46c9bb5268ea06cf.jpg"
+        },
+        {
+            "prodid": "3",
+            "name": "jeans Levi's Man",
+            "price": 159,
+            "src": "/img/2eb8a93fb75b5207b141e711647c.jpg"
+        },
+        {
+            "prodid": "4",
+            "name": "jeans Levi's Man",
+            "price": 149,
+            "src": "/img/AW22-SJM02L_55J_F1.jpg"
+        }
+    ],
+    "woman": [
+        {
+            "prodid": "1",
+            "name": "Shirt quess Woman",
+            "price": 139,
+            "src": "/img/AW22-KDD04H_65A_F1.jpg"
+        },
+        {
+            "prodid": "2",
+            "name": "Blouse Tommy Woman",
+            "price": 129,
+            "src": "/img/AW22-BLD02H_01X_F1.jpg"
+        },
+        {
+            "prodid": "3",
+            "name": "Dress quess Woman",
+            "price": 119,
+            "src": "/img/AW22-SUD0I3_80X_F1.jpg"
+        },
+        {
+            "prodid": "4",
+            "name": "T-shirt Calvin Klein Jeans Woman",
+            "price": 109,
+            "src": "/img/AW22-TSD14C_88X_F1.jpg"
+        }
+    ],
+    "kids": [
+        {
+            "prodid": "1",
+            "name": "Dress quess Kids",
+            "price": 99,
+            "src": "/img/AW22-KDB004_50X_F1.jpg"
+        },
+        {
+            "prodid": "2",
+            "name": "Dress quess Kids",
+            "price": 89,
+            "src": "/img/AW22-SUG02R_03X_F1.jpg"
+        },
+        {
+            "prodid": "3",
+            "name": "Dress quess Kids",
+            "price": 79,
+            "src": "/img/AW22-SUG01A_55X_F1.jpg"
+        },
+        {
+            "prodid": "4",
+            "name": "Sweater Benetton Kids",
+            "price": 69,
+            "src": "/img/AW22-BLG03O_48X_F1.jpg"
+        }
+    ]
+}
